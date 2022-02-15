@@ -1,0 +1,47 @@
+/* custom css  */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* header section  */
+.carousel-caption h1{
+    font-size: 48px;
+    line-height: 58px;
+}
+
+/* main body section  */
+
+#toast-icon{
+    height: 20px;
+    width: 20px;
+}
+
+#package{
+    border-radius: 25px;
+}
+
+.package-list i{
+    color: #5243C2;
+    height: 20px;
+    width: 20px;
+}
+
+#package-hot{
+    background: #3F87F5;
+    border-radius: 25px;
+
+}
+
+/* footer section */
+footer{
+    background: #0B0D17;
+}
+#apple-store{
+    width: 125px;
+    height: 40px;
+}
+
+#play-store{
+    width: 120px;
+    height: 40px;
+}
